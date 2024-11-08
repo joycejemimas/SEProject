@@ -1,0 +1,47 @@
+{
+    "stu_headers": [
+        { "text": "STUDENT NAME", "value": "stu_name", "width": 400 },
+        { "text": "ROLL NUMBER", "value": "stu_roll", "width": 400 },
+        { "text": "NUMBER of COMMITS", "value": "number", "width": 400 }
+    ],
+    "stu_items": [
+        { "stu_name": "Stephen Curry", "stu_roll": "21fA00AAAA", "number": 30 },
+        { "stu_name": "Lebron James", "stu_roll": "21fB00BBBB", "number": 6 },
+        { "stu_name": "Kevin Durant", "stu_roll": "21fC00CCCC", "number": 7 },
+        { "stu_name": "Giannis Antetokounmpo", "stu_roll": "21fD00DDDD", "number": 34 },
+        { "stu_name": "Peter Murray", "stu_roll": "21fE00EEEE", "number": 30 },
+        { "stu_name": "Gebron Thames", "stu_roll": "21fF00FFFF", "number": 6 },
+        { "stu_name": "Bevin Gurant", "stu_roll": "21fG00GGGG", "number": 7 },
+        { "stu_name": "Jiannis Kemtokounmpo", "stu_roll": "21fH00HHHH", "number": 34 }
+    ],
+    "milestone_headers": [
+        { "text": "MILESTONES", "value": "details" },
+        { "text": "Milestone 1", "value": "milestone1" },
+        { "text": "Milestone 2", "value": "milestone2" },
+        { "text": "Milestone 3", "value": "milestone3" },
+        { "text": "Milestone 4", "value": "milestone4" },
+        { "text": "Milestone 5", "value": "milestone5", "style": "width: 150px;" },
+        { "text": "Milestone 6", "value": "milestone6", "class": "number-commits-header" }
+        ],
+        "milestone_items": [
+            {
+            "details": "Deadline",
+            "milestone1": "20 Oct 2024",
+            "milestone2": "20 Oct 2024",
+            "milestone3": "10 Nov 2024",
+            "milestone4": "17 Nov 2024",
+            "milestone5": "24 Nov 2024",
+            "milestone6": "01 Dec 2024"
+          },
+          {
+            "details": "Status",
+            "milestone1": "Missed",
+            "milestone2": "Completed",
+            "milestone3": "Pending",
+            "milestone4": "Pending",
+            "milestone5": "Pending",
+            "milestone6": "Pending"
+          }
+        ]
+      }
+  
